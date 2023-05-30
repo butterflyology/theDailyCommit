@@ -1,7 +1,7 @@
 #!/bin/bash
 
 REPO_PATH="/Users/Chris/Projects/theDailyCommit"  # Specify the path to your repository
-COMMIT_MESSAGE="Daily commit"         # Specify the commit message
+COMMIT_MESSAGE="Daily commit"  # Specify the commit message
 
 cd "$REPO_PATH" || exit 1
 
