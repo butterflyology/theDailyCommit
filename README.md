@@ -7,3 +7,8 @@ Well, look at you actually reading the contents of the repo. This repo exists to
 
 This is run as a `crontab -e` with the following:
 `45 11 * * *  cd /Users/Chris/Projects/theDailyCommit && /Users/Chris/Projects/theDailyCommit/theDailyCommit.sh >/tmp/stdout.log 2>.tmp/stderr.log`
+
+
+Major commits:
+1. 2023-05-30: Initial commit of code
+1. 2023-06-04: Updated code to commit and push three changes. Gotta keep those cubes filled in dark. 
