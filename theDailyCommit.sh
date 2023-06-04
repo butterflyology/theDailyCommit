@@ -6,8 +6,8 @@ COMMIT_MESSAGE="Daily commit"  # Specify the commit message
 cd "$REPO_PATH" || exit 1
 
 # Create a dummy file with the current date as the file name
-# Generate and push three changes
-for ((i=1; i<=3; i++))
+# Generate and push five changes
+for ((i=1; i<=5; i++))
 do
     # Create a dummy file with the current date and iteration number as the file name
     DATE=$(date +%Y-%m-%d)
