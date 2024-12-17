@@ -12,7 +12,7 @@ cd "$REPO_PATH" || exit 1
 for ((i=1; i<=NUM_COMMITS; i++))
 do
     # Create a dummy file with the current date and iteration number as the file name
-    DATE=$(date +%Y-%m-%d)
+    DATE=$(date +%Y-%m-%d-%H-%M-%S)
     FILENAME="$DATE-$i.txt"
     touch "$FILENAME"
 
