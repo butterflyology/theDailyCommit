@@ -15,3 +15,4 @@ Major commits:
 1. 2023-05-30: Initial commit of code
 1. 2023-06-04: Updated code to commit and push three changes. Gotta keep those cubes filled in dark. 
 1. 2023-06-19: Updated to allow a variable number of commits to called from the command line.
+1. 2024-12-17: Updated code to improve the filenames and handle errors. 
