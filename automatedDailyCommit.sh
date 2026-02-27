@@ -12,11 +12,12 @@ BRANCH=$(git symbolic-ref --short HEAD)
 # Distribution with:
 # - Min: 1
 # - Max: 15
-# - Mean: ~6
-# - Mode: 6
+# - Mean: ~4
+# - Median: ~4
+# - Mode: 4
 values=(1  2  3  4  5  6  7  8  9  10 11 12 13 14 15)
-weights=(4  8  15 22 28 30 25 20 14  9  6  4  3  2  2)
-total_weight=192
+weights=(8  16 28 32 24 16 10 6  4   3  2  2  1  1  1)
+total_weight=154
 
 r=$(( RANDOM % total_weight ))
 NUM_COMMITS=1
