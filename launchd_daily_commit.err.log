@@ -745,3 +745,32 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+warning: in the working copy of 'launchd_daily_commit.err.log', CRLF will be replaced by LF the next time Git touches it
+ssh: connect to host github.com port 22: Operation timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ssh: connect to host github.com port 22: Operation timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ssh: connect to host github.com port 22: Operation timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Connection closed by 140.82.116.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+To github.com:butterflyology/theDailyCommit.git
+   29c2431..13bc7cf  main -> main
+To github.com:butterflyology/theDailyCommit.git
+   13bc7cf..630033e  main -> main
+To github.com:butterflyology/theDailyCommit.git
+   630033e..856aaf0  main -> main
+To github.com:butterflyology/theDailyCommit.git
+   856aaf0..b72a95b  main -> main
