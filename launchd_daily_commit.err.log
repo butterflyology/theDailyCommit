@@ -3342,3 +3342,19 @@ To github.com:butterflyology/theDailyCommit.git
    39b94ad..43cc7e9  main -> main
 To github.com:butterflyology/theDailyCommit.git
    43cc7e9..ccc2bf9  main -> main
+warning: in the working copy of 'launchd_daily_commit.err.log', CRLF will be replaced by LF the next time Git touches it
+To github.com:butterflyology/theDailyCommit.git
+   ccc2bf9..84e7664  main -> main
+To github.com:butterflyology/theDailyCommit.git
+   84e7664..1f4b387  main -> main
+To github.com:butterflyology/theDailyCommit.git
+   1f4b387..76a9d48  main -> main
+To github.com:butterflyology/theDailyCommit.git
+   76a9d48..e4d3ece  main -> main
+To github.com:butterflyology/theDailyCommit.git
+   e4d3ece..eb2f212  main -> main
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
